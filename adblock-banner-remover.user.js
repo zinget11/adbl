@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         AdBlock Banner Remover
 // @namespace    adblock-banner-remover
-// @version      1.23
-// @updateURL    https://raw.githubusercontent.com/zinget11/adblock-banner-remover/main/adblock-banner-remover.user.js
-// @downloadURL  https://raw.githubusercontent.com/zinget11/adblock-banner-remover/main/adblock-banner-remover.user.js
+// @version      1.24
+// @updateURL    https://raw.githubusercontent.com/zinget11/adbl/main/adblock-banner-remover.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinget11/adbl/main/adblock-banner-remover.user.js
 // @match        https://screenrant.com/*
 // @match        https://www.destructoid.com/*
 // @match        *://*.bloomberg.com/news/*
